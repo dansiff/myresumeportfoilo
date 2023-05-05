@@ -1,5 +1,5 @@
 {
-  "homepage": "https//dansiff.github.io/myresumeportfoilo",
+  "homepage": "https://github.com/dansiff/myresumeportfoilo",
   "name": "resume",
   "version": "1.0.0",
   "description": "resume",
@@ -9,8 +9,8 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build",
     "build": "react-scripts build",
-    "test": "yes"
-    "eject": "react-scripts eject",
+    "test": "yes",
+    "eject": "react-scripts eject"
   },
   "repository": {
     "type": "git",
@@ -24,7 +24,6 @@
   "bugs": {
     "url": "https://github.com/dansiff/myresumeportfoilo/issues"
   },
-  "homepage": "https://github.com/dansiff/myresumeportfoilo#readme",
   "devDependencies": {
     "gh-pages": "^5.0.0"
   }
